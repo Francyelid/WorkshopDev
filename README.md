@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="public/logo.png">
+  <img src="WS/public/logo.png">
 </h1>
 
 <h2 align="center">
@@ -13,9 +13,9 @@
 </h3>
 
 <ul>
-  <li> <img src="imgs/html.png" alt="html5" height="18"> <strong> HTML5 </strong> </li>
-  <li> <img src="imgs/css.png" alt="css3" height="18"> <strong> CSS3 </strong> </li>
-  <li> <img src="imgs/js.png" alt="js" height="18"> <strong> JavaScript </strong> </li>
+  <li> <img src="WS/imgs/html.png" alt="html5" height="18"> <strong> HTML5 </strong> </li>
+  <li> <img src="WS/imgs/css.png" alt="css3" height="18"> <strong> CSS3 </strong> </li>
+  <li> <img src="WS/imgs/js.png" alt="js" height="18"> <strong> JavaScript </strong> </li>
 </ul>
 
 <h3>
@@ -23,8 +23,8 @@
 </h3>
 
 <ul>
-  <li> <img src="imgs/node.png" alt="node.js" height="18"> <strong> Node.js </strong> </li>
-  <li> <img src="imgs/sqlite.png" alt="sqlite3" height="18"> <strong> SQLite 3 </strong> </li>
+  <li> <img src="WS/imgs/node.png" alt="node.js" height="18"> <strong> Node.js </strong> </li>
+  <li> <img src="WS/imgs/sqlite.png" alt="sqlite3" height="18"> <strong> SQLite 3 </strong> </li>
 </ul>
 
 <h3>
@@ -48,15 +48,15 @@ Acesse a aplicação via **localhost:3000**
 
 ### Telas
 
-![](imgs/print1.png)
-![](imgs/print2.png)
-![](imgs/print3.png)
+![](WS/imgs/print1.png)
+![](WS/imgs/print2.png)
+![](WS/imgs/print3.png)
 
 Veja também esse [vídeo]() com a demonstração da aplicação rodando localmente.
 
 ---
 
-**&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
+**&copy; <img src="WS/imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
 
 **Instrutor: [Mayk Brito](https://github.com/maykbrito)**
 
