@@ -56,15 +56,7 @@ Veja também esse [vídeo]() com a demonstração da aplicação rodando localme
 
 ---
 
-**&copy; <img src="WS/imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
+**&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
 
 **Instrutor: [Mayk Brito](https://github.com/maykbrito)**
 
-## Licença
-[MIT](LICENSE)
-
-<hr>
-
-<h4 align="center">
-  <em>&lt;/&gt;</em> by <a href="https://github.com/christyanbrayan" target="_blank">christyanbrayan</a>
-</h4>
